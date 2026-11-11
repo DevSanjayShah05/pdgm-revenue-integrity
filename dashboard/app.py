@@ -3,7 +3,11 @@
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "src"))  # lets Streamlit Community Cloud import the package without PYTHONPATH
 
 import pandas as pd
 import plotly.graph_objects as go
@@ -12,7 +16,6 @@ import streamlit as st
 from period_audit.grouper import Period, group
 from period_audit.scoring import score_claim
 
-ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "outputs"
 BLUE, ORANGE, AQUA, YELLOW = "#2a78d6", "#eb6834", "#1baf7a", "#eda100"
 UNDER, OVER, GRAY = "#d03b3b", "#ec835a", "#b4b2a9"
