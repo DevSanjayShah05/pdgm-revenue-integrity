@@ -1,0 +1,18 @@
+{
+  "source": "CY 2026 HH PPS Final Rule, 90 FR 55342 (FR Doc 2025-21767)",
+  "national_30_day_rate": 2038.22,
+  "per_visit": {
+    "aide": 80.12,
+    "msw": 283.64,
+    "ot": 194.74,
+    "pt": 193.42,
+    "sn": 176.96,
+    "slp": 210.25
+  },
+  "lupa_addon_factor": {
+    "sn": 1.72,
+    "pt": 1.6225,
+    "slp": 1.6696,
+    "ot": 1.6225
+  }
+}

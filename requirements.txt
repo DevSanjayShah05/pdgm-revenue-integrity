@@ -1,0 +1,12 @@
+pandas==3.1.1
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+xgboost==3.2.0
+duckdb==2.0.0
+pyarrow==26.0.1
+fastapi==0.162.4
+uvicorn[standard]==0.54.0
+pydantic==2.14.3
+streamlit==1.67.0
+plotly==7.1.0

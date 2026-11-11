@@ -1,0 +1,14 @@
+ID,NAME,DESCRIPTION,LOW_POINT,HIGH_POINT
+A,MMTA_OTHER,MMTA - Other,30,46
+B,NEURO_REHAB,Neuro Rehabilitation,34,53
+C,WOUND,Wound,33,53
+D,COMPLEX,Complex Nursing Interventions,31,55
+E,MS_REHAB,Musculoskeletal Rehabilitation,31,46
+F,BEHAVE_HEALTH,Behavioral Health,31,47
+G,MMTA_AFTER,MMTA - Surgical Aftercare,30,43
+H,MMTA_CARDIAC,MMTA - Cardiac and Circulatory,28,44
+I,MMTA_ENDO,MMTA - Endocrine,27,42
+J,MMTA_GI_GU,MMTA - Gastrointestinal tract and Genitourinary system,34,49
+K,MMTA_INFECT,"MMTA - Infectious Disease, Neoplasms, and Blood-Forming Diseases",32,47
+L,MMTA_RESP,MMTA - Respiratory,33,47
+NA,NO_GROUP,No Group Assigned,-1,-1

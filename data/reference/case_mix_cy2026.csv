@@ -1,0 +1,433 @@
+hipps,description,source_timing,comorbidity,weight,lupa_threshold
+1FC11,Behavioral Health - High,Early - Community,0,1.0804,4
+1FC21,Behavioral Health - High,Early - Community,1,1.1372,4
+1FC31,Behavioral Health - High,Early - Community,2,1.2794,4
+2FC11,Behavioral Health - High,Early - Institutional,0,1.2847,4
+2FC21,Behavioral Health - High,Early - Institutional,1,1.3414,4
+2FC31,Behavioral Health - High,Early - Institutional,2,1.4837,4
+3FC11,Behavioral Health - High,Late - Community,0,0.748,2
+3FC21,Behavioral Health - High,Late - Community,1,0.8047,2
+3FC31,Behavioral Health - High,Late - Community,2,0.9469,2
+4FC11,Behavioral Health - High,Late - Institutional,0,1.2162,3
+4FC21,Behavioral Health - High,Late - Institutional,1,1.273,3
+4FC31,Behavioral Health - High,Late - Institutional,2,1.4152,3
+1FA11,Behavioral Health - Low,Early - Community,0,0.8689,3
+1FA21,Behavioral Health - Low,Early - Community,1,0.9257,3
+1FA31,Behavioral Health - Low,Early - Community,2,1.0679,3
+2FA11,Behavioral Health - Low,Early - Institutional,0,1.0732,3
+2FA21,Behavioral Health - Low,Early - Institutional,1,1.1299,3
+2FA31,Behavioral Health - Low,Early - Institutional,2,1.2721,2
+3FA11,Behavioral Health - Low,Late - Community,0,0.5364,2
+3FA21,Behavioral Health - Low,Late - Community,1,0.5932,2
+3FA31,Behavioral Health - Low,Late - Community,2,0.7354,2
+4FA11,Behavioral Health - Low,Late - Institutional,0,1.0047,3
+4FA21,Behavioral Health - Low,Late - Institutional,1,1.0614,2
+4FA31,Behavioral Health - Low,Late - Institutional,2,1.2036,3
+1FB11,Behavioral Health - Medium,Early - Community,0,1.0012,4
+1FB21,Behavioral Health - Medium,Early - Community,1,1.058,4
+1FB31,Behavioral Health - Medium,Early - Community,2,1.2002,3
+2FB11,Behavioral Health - Medium,Early - Institutional,0,1.2055,3
+2FB21,Behavioral Health - Medium,Early - Institutional,1,1.2622,4
+2FB31,Behavioral Health - Medium,Early - Institutional,2,1.4045,4
+3FB11,Behavioral Health - Medium,Late - Community,0,0.6688,2
+3FB21,Behavioral Health - Medium,Late - Community,1,0.7255,2
+3FB31,Behavioral Health - Medium,Late - Community,2,0.8677,2
+4FB11,Behavioral Health - Medium,Late - Institutional,0,1.137,3
+4FB21,Behavioral Health - Medium,Late - Institutional,1,1.1938,3
+4FB31,Behavioral Health - Medium,Late - Institutional,2,1.336,4
+1DC11,Complex - High,Early - Community,0,1.0043,2
+1DC21,Complex - High,Early - Community,1,1.0611,2
+1DC31,Complex - High,Early - Community,2,1.2033,2
+2DC11,Complex - High,Early - Institutional,0,1.2086,3
+2DC21,Complex - High,Early - Institutional,1,1.2653,3
+2DC31,Complex - High,Early - Institutional,2,1.4076,3
+3DC11,Complex - High,Late - Community,0,0.6719,2
+3DC21,Complex - High,Late - Community,1,0.7286,2
+3DC31,Complex - High,Late - Community,2,0.8708,2
+4DC11,Complex - High,Late - Institutional,0,1.1401,2
+4DC21,Complex - High,Late - Institutional,1,1.1969,2
+4DC31,Complex - High,Late - Institutional,2,1.3391,2
+1DA11,Complex - Low,Early - Community,0,0.8949,2
+1DA21,Complex - Low,Early - Community,1,0.9516,2
+1DA31,Complex - Low,Early - Community,2,1.0938,2
+2DA11,Complex - Low,Early - Institutional,0,1.0991,3
+2DA21,Complex - Low,Early - Institutional,1,1.1559,3
+2DA31,Complex - Low,Early - Institutional,2,1.2981,3
+3DA11,Complex - Low,Late - Community,0,0.5624,2
+3DA21,Complex - Low,Late - Community,1,0.6192,2
+3DA31,Complex - Low,Late - Community,2,0.7614,2
+4DA11,Complex - Low,Late - Institutional,0,1.0306,2
+4DA21,Complex - Low,Late - Institutional,1,1.0874,2
+4DA31,Complex - Low,Late - Institutional,2,1.2296,3
+1DB11,Complex - Medium,Early - Community,0,1.0374,2
+1DB21,Complex - Medium,Early - Community,1,1.0941,2
+1DB31,Complex - Medium,Early - Community,2,1.2363,2
+2DB11,Complex - Medium,Early - Institutional,0,1.2416,3
+2DB21,Complex - Medium,Early - Institutional,1,1.2984,3
+2DB31,Complex - Medium,Early - Institutional,2,1.4406,3
+3DB11,Complex - Medium,Late - Community,0,0.7049,2
+3DB21,Complex - Medium,Late - Community,1,0.7616,2
+3DB31,Complex - Medium,Late - Community,2,0.9039,2
+4DB11,Complex - Medium,Late - Institutional,0,1.1731,3
+4DB21,Complex - Medium,Late - Institutional,1,1.2299,3
+4DB31,Complex - Medium,Late - Institutional,2,1.3721,3
+1HC11,MMTA - Cardiac - High,Early - Community,0,1.102,4
+1HC21,MMTA - Cardiac - High,Early - Community,1,1.1588,3
+1HC31,MMTA - Cardiac - High,Early - Community,2,1.301,3
+2HC11,MMTA - Cardiac - High,Early - Institutional,0,1.3063,4
+2HC21,MMTA - Cardiac - High,Early - Institutional,1,1.363,4
+2HC31,MMTA - Cardiac - High,Early - Institutional,2,1.5053,4
+3HC11,MMTA - Cardiac - High,Late - Community,0,0.7696,2
+3HC21,MMTA - Cardiac - High,Late - Community,1,0.8263,2
+3HC31,MMTA - Cardiac - High,Late - Community,2,0.9685,3
+4HC11,MMTA - Cardiac - High,Late - Institutional,0,1.2378,3
+4HC21,MMTA - Cardiac - High,Late - Institutional,1,1.2946,3
+4HC31,MMTA - Cardiac - High,Late - Institutional,2,1.4368,3
+1HA11,MMTA - Cardiac - Low,Early - Community,0,0.8972,4
+1HA21,MMTA - Cardiac - Low,Early - Community,1,0.954,3
+1HA31,MMTA - Cardiac - Low,Early - Community,2,1.0962,4
+2HA11,MMTA - Cardiac - Low,Early - Institutional,0,1.1015,3
+2HA21,MMTA - Cardiac - Low,Early - Institutional,1,1.1582,4
+2HA31,MMTA - Cardiac - Low,Early - Institutional,2,1.3004,4
+3HA11,MMTA - Cardiac - Low,Late - Community,0,0.5647,2
+3HA21,MMTA - Cardiac - Low,Late - Community,1,0.6215,2
+3HA31,MMTA - Cardiac - Low,Late - Community,2,0.7637,2
+4HA11,MMTA - Cardiac - Low,Late - Institutional,0,1.033,3
+4HA21,MMTA - Cardiac - Low,Late - Institutional,1,1.0897,3
+4HA31,MMTA - Cardiac - Low,Late - Institutional,2,1.232,3
+1HB11,MMTA - Cardiac - Medium,Early - Community,0,0.9949,4
+1HB21,MMTA - Cardiac - Medium,Early - Community,1,1.0517,4
+1HB31,MMTA - Cardiac - Medium,Early - Community,2,1.1939,3
+2HB11,MMTA - Cardiac - Medium,Early - Institutional,0,1.1992,4
+2HB21,MMTA - Cardiac - Medium,Early - Institutional,1,1.2559,4
+2HB31,MMTA - Cardiac - Medium,Early - Institutional,2,1.3982,4
+3HB11,MMTA - Cardiac - Medium,Late - Community,0,0.6625,2
+3HB21,MMTA - Cardiac - Medium,Late - Community,1,0.7192,2
+3HB31,MMTA - Cardiac - Medium,Late - Community,2,0.8614,2
+4HB11,MMTA - Cardiac - Medium,Late - Institutional,0,1.1307,3
+4HB21,MMTA - Cardiac - Medium,Late - Institutional,1,1.1875,3
+4HB31,MMTA - Cardiac - Medium,Late - Institutional,2,1.3297,3
+1IC11,MMTA - Endocrine - High,Early - Community,0,1.3161,4
+1IC21,MMTA - Endocrine - High,Early - Community,1,1.3728,4
+1IC31,MMTA - Endocrine - High,Early - Community,2,1.5151,4
+2IC11,MMTA - Endocrine - High,Early - Institutional,0,1.5203,4
+2IC21,MMTA - Endocrine - High,Early - Institutional,1,1.5771,4
+2IC31,MMTA - Endocrine - High,Early - Institutional,2,1.7193,4
+3IC11,MMTA - Endocrine - High,Late - Community,0,0.9836,3
+3IC21,MMTA - Endocrine - High,Late - Community,1,1.0404,3
+3IC31,MMTA - Endocrine - High,Late - Community,2,1.1826,3
+4IC11,MMTA - Endocrine - High,Late - Institutional,0,1.4519,4
+4IC21,MMTA - Endocrine - High,Late - Institutional,1,1.5086,4
+4IC31,MMTA - Endocrine - High,Late - Institutional,2,1.6508,4
+1IA11,MMTA - Endocrine - Low,Early - Community,0,1.1921,4
+1IA21,MMTA - Endocrine - Low,Early - Community,1,1.2489,4
+1IA31,MMTA - Endocrine - Low,Early - Community,2,1.3911,4
+2IA11,MMTA - Endocrine - Low,Early - Institutional,0,1.3964,3
+2IA21,MMTA - Endocrine - Low,Early - Institutional,1,1.4531,4
+2IA31,MMTA - Endocrine - Low,Early - Institutional,2,1.5954,4
+3IA11,MMTA - Endocrine - Low,Late - Community,0,0.8597,3
+3IA21,MMTA - Endocrine - Low,Late - Community,1,0.9164,3
+3IA31,MMTA - Endocrine - Low,Late - Community,2,1.0586,3
+4IA11,MMTA - Endocrine - Low,Late - Institutional,0,1.3279,3
+4IA21,MMTA - Endocrine - Low,Late - Institutional,1,1.3847,3
+4IA31,MMTA - Endocrine - Low,Late - Institutional,2,1.5269,3
+1IB11,MMTA - Endocrine - Medium,Early - Community,0,1.2361,5
+1IB21,MMTA - Endocrine - Medium,Early - Community,1,1.2929,4
+1IB31,MMTA - Endocrine - Medium,Early - Community,2,1.4351,4
+2IB11,MMTA - Endocrine - Medium,Early - Institutional,0,1.4404,4
+2IB21,MMTA - Endocrine - Medium,Early - Institutional,1,1.4971,4
+2IB31,MMTA - Endocrine - Medium,Early - Institutional,2,1.6393,4
+3IB11,MMTA - Endocrine - Medium,Late - Community,0,0.9036,3
+3IB21,MMTA - Endocrine - Medium,Late - Community,1,0.9604,3
+3IB31,MMTA - Endocrine - Medium,Late - Community,2,1.1026,3
+4IB11,MMTA - Endocrine - Medium,Late - Institutional,0,1.3719,4
+4IB21,MMTA - Endocrine - Medium,Late - Institutional,1,1.4286,3
+4IB31,MMTA - Endocrine - Medium,Late - Institutional,2,1.5709,4
+1JC11,MMTA - GI/GU - High,Early - Community,0,1.102,3
+1JC21,MMTA - GI/GU - High,Early - Community,1,1.1588,3
+1JC31,MMTA - GI/GU - High,Early - Community,2,1.301,2
+2JC11,MMTA - GI/GU - High,Early - Institutional,0,1.3063,3
+2JC21,MMTA - GI/GU - High,Early - Institutional,1,1.363,3
+2JC31,MMTA - GI/GU - High,Early - Institutional,2,1.5053,3
+3JC11,MMTA - GI/GU - High,Late - Community,0,0.7696,2
+3JC21,MMTA - GI/GU - High,Late - Community,1,0.8263,2
+3JC31,MMTA - GI/GU - High,Late - Community,2,0.9685,2
+4JC11,MMTA - GI/GU - High,Late - Institutional,0,1.2378,3
+4JC21,MMTA - GI/GU - High,Late - Institutional,1,1.2946,3
+4JC31,MMTA - GI/GU - High,Late - Institutional,2,1.4368,3
+1JA11,MMTA - GI/GU - Low,Early - Community,0,0.8912,2
+1JA21,MMTA - GI/GU - Low,Early - Community,1,0.9479,2
+1JA31,MMTA - GI/GU - Low,Early - Community,2,1.0902,3
+2JA11,MMTA - GI/GU - Low,Early - Institutional,0,1.0954,3
+2JA21,MMTA - GI/GU - Low,Early - Institutional,1,1.1522,3
+2JA31,MMTA - GI/GU - Low,Early - Institutional,2,1.2944,3
+3JA11,MMTA - GI/GU - Low,Late - Community,0,0.5587,2
+3JA21,MMTA - GI/GU - Low,Late - Community,1,0.6155,2
+3JA31,MMTA - GI/GU - Low,Late - Community,2,0.7577,2
+4JA11,MMTA - GI/GU - Low,Late - Institutional,0,1.027,3
+4JA21,MMTA - GI/GU - Low,Late - Institutional,1,1.0837,3
+4JA31,MMTA - GI/GU - Low,Late - Institutional,2,1.2259,3
+1JB11,MMTA - GI/GU - Medium,Early - Community,0,0.9957,3
+1JB21,MMTA - GI/GU - Medium,Early - Community,1,1.0524,2
+1JB31,MMTA - GI/GU - Medium,Early - Community,2,1.1947,3
+2JB11,MMTA - GI/GU - Medium,Early - Institutional,0,1.1999,3
+2JB21,MMTA - GI/GU - Medium,Early - Institutional,1,1.2567,3
+2JB31,MMTA - GI/GU - Medium,Early - Institutional,2,1.3989,4
+3JB11,MMTA - GI/GU - Medium,Late - Community,0,0.6632,2
+3JB21,MMTA - GI/GU - Medium,Late - Community,1,0.72,2
+3JB31,MMTA - GI/GU - Medium,Late - Community,2,0.8622,2
+4JB11,MMTA - GI/GU - Medium,Late - Institutional,0,1.1315,3
+4JB21,MMTA - GI/GU - Medium,Late - Institutional,1,1.1882,3
+4JB31,MMTA - GI/GU - Medium,Late - Institutional,2,1.3304,3
+1KC11,MMTA - Infectious - High,Early - Community,0,1.1546,2
+1KC21,MMTA - Infectious - High,Early - Community,1,1.2113,2
+1KC31,MMTA - Infectious - High,Early - Community,2,1.3535,2
+2KC11,MMTA - Infectious - High,Early - Institutional,0,1.3588,3
+2KC21,MMTA - Infectious - High,Early - Institutional,1,1.4156,3
+2KC31,MMTA - Infectious - High,Early - Institutional,2,1.5578,3
+3KC11,MMTA - Infectious - High,Late - Community,0,0.8221,2
+3KC21,MMTA - Infectious - High,Late - Community,1,0.8788,2
+3KC31,MMTA - Infectious - High,Late - Community,2,1.0211,2
+4KC11,MMTA - Infectious - High,Late - Institutional,0,1.2903,3
+4KC21,MMTA - Infectious - High,Late - Institutional,1,1.3471,3
+4KC31,MMTA - Infectious - High,Late - Institutional,2,1.4893,3
+1KA11,MMTA - Infectious - Low,Early - Community,0,0.9153,2
+1KA21,MMTA - Infectious - Low,Early - Community,1,0.972,2
+1KA31,MMTA - Infectious - Low,Early - Community,2,1.1142,2
+2KA11,MMTA - Infectious - Low,Early - Institutional,0,1.1195,3
+2KA21,MMTA - Infectious - Low,Early - Institutional,1,1.1763,3
+2KA31,MMTA - Infectious - Low,Early - Institutional,2,1.3185,3
+3KA11,MMTA - Infectious - Low,Late - Community,0,0.5828,2
+3KA21,MMTA - Infectious - Low,Late - Community,1,0.6395,2
+3KA31,MMTA - Infectious - Low,Late - Community,2,0.7818,2
+4KA11,MMTA - Infectious - Low,Late - Institutional,0,1.051,3
+4KA21,MMTA - Infectious - Low,Late - Institutional,1,1.1078,3
+4KA31,MMTA - Infectious - Low,Late - Institutional,2,1.25,3
+1KB11,MMTA - Infectious - Medium,Early - Community,0,1.0053,2
+1KB21,MMTA - Infectious - Medium,Early - Community,1,1.062,2
+1KB31,MMTA - Infectious - Medium,Early - Community,2,1.2042,2
+2KB11,MMTA - Infectious - Medium,Early - Institutional,0,1.2095,3
+2KB21,MMTA - Infectious - Medium,Early - Institutional,1,1.2663,3
+2KB31,MMTA - Infectious - Medium,Early - Institutional,2,1.4085,3
+3KB11,MMTA - Infectious - Medium,Late - Community,0,0.6728,2
+3KB21,MMTA - Infectious - Medium,Late - Community,1,0.7295,2
+3KB31,MMTA - Infectious - Medium,Late - Community,2,0.8718,2
+4KB11,MMTA - Infectious - Medium,Late - Institutional,0,1.141,3
+4KB21,MMTA - Infectious - Medium,Late - Institutional,1,1.1978,3
+4KB31,MMTA - Infectious - Medium,Late - Institutional,2,1.34,3
+1AC11,MMTA - Other - High,Early - Community,0,1.1021,4
+1AC21,MMTA - Other - High,Early - Community,1,1.1589,3
+1AC31,MMTA - Other - High,Early - Community,2,1.3011,3
+2AC11,MMTA - Other - High,Early - Institutional,0,1.3064,4
+2AC21,MMTA - Other - High,Early - Institutional,1,1.3631,4
+2AC31,MMTA - Other - High,Early - Institutional,2,1.5053,4
+3AC11,MMTA - Other - High,Late - Community,0,0.7696,2
+3AC21,MMTA - Other - High,Late - Community,1,0.8264,2
+3AC31,MMTA - Other - High,Late - Community,2,0.9686,2
+4AC11,MMTA - Other - High,Late - Institutional,0,1.2379,3
+4AC21,MMTA - Other - High,Late - Institutional,1,1.2946,3
+4AC31,MMTA - Other - High,Late - Institutional,2,1.4369,3
+1AA11,MMTA - Other - Low,Early - Community,0,0.9148,3
+1AA21,MMTA - Other - Low,Early - Community,1,0.9715,3
+1AA31,MMTA - Other - Low,Early - Community,2,1.1137,3
+2AA11,MMTA - Other - Low,Early - Institutional,0,1.119,3
+2AA21,MMTA - Other - Low,Early - Institutional,1,1.1758,3
+2AA31,MMTA - Other - Low,Early - Institutional,2,1.318,3
+3AA11,MMTA - Other - Low,Late - Community,0,0.5823,2
+3AA21,MMTA - Other - Low,Late - Community,1,0.639,2
+3AA31,MMTA - Other - Low,Late - Community,2,0.7813,2
+4AA11,MMTA - Other - Low,Late - Institutional,0,1.0505,3
+4AA21,MMTA - Other - Low,Late - Institutional,1,1.1073,3
+4AA31,MMTA - Other - Low,Late - Institutional,2,1.2495,3
+1AB11,MMTA - Other - Medium,Early - Community,0,1.0031,4
+1AB21,MMTA - Other - Medium,Early - Community,1,1.0599,4
+1AB31,MMTA - Other - Medium,Early - Community,2,1.2021,3
+2AB11,MMTA - Other - Medium,Early - Institutional,0,1.2074,4
+2AB21,MMTA - Other - Medium,Early - Institutional,1,1.2641,4
+2AB31,MMTA - Other - Medium,Early - Institutional,2,1.4064,4
+3AB11,MMTA - Other - Medium,Late - Community,0,0.6707,2
+3AB21,MMTA - Other - Medium,Late - Community,1,0.7274,2
+3AB31,MMTA - Other - Medium,Late - Community,2,0.8696,2
+4AB11,MMTA - Other - Medium,Late - Institutional,0,1.1389,3
+4AB21,MMTA - Other - Medium,Late - Institutional,1,1.1957,3
+4AB31,MMTA - Other - Medium,Late - Institutional,2,1.3379,3
+1LC11,MMTA - Respiratory - High,Early - Community,0,1.1134,3
+1LC21,MMTA - Respiratory - High,Early - Community,1,1.1701,3
+1LC31,MMTA - Respiratory - High,Early - Community,2,1.3124,3
+2LC11,MMTA - Respiratory - High,Early - Institutional,0,1.3176,4
+2LC21,MMTA - Respiratory - High,Early - Institutional,1,1.3744,4
+2LC31,MMTA - Respiratory - High,Early - Institutional,2,1.5166,3
+3LC11,MMTA - Respiratory - High,Late - Community,0,0.7809,2
+3LC21,MMTA - Respiratory - High,Late - Community,1,0.8377,2
+3LC31,MMTA - Respiratory - High,Late - Community,2,0.9799,2
+4LC11,MMTA - Respiratory - High,Late - Institutional,0,1.2492,3
+4LC21,MMTA - Respiratory - High,Late - Institutional,1,1.3059,3
+4LC31,MMTA - Respiratory - High,Late - Institutional,2,1.4481,3
+1LA11,MMTA - Respiratory - Low,Early - Community,0,0.9067,3
+1LA21,MMTA - Respiratory - Low,Early - Community,1,0.9635,3
+1LA31,MMTA - Respiratory - Low,Early - Community,2,1.1057,3
+2LA11,MMTA - Respiratory - Low,Early - Institutional,0,1.111,3
+2LA21,MMTA - Respiratory - Low,Early - Institutional,1,1.1677,3
+2LA31,MMTA - Respiratory - Low,Early - Institutional,2,1.3099,4
+3LA11,MMTA - Respiratory - Low,Late - Community,0,0.5742,2
+3LA21,MMTA - Respiratory - Low,Late - Community,1,0.631,2
+3LA31,MMTA - Respiratory - Low,Late - Community,2,0.7732,2
+4LA11,MMTA - Respiratory - Low,Late - Institutional,0,1.0425,3
+4LA21,MMTA - Respiratory - Low,Late - Institutional,1,1.0992,3
+4LA31,MMTA - Respiratory - Low,Late - Institutional,2,1.2415,3
+1LB11,MMTA - Respiratory - Medium,Early - Community,0,1.009,3
+1LB21,MMTA - Respiratory - Medium,Early - Community,1,1.0658,3
+1LB31,MMTA - Respiratory - Medium,Early - Community,2,1.208,3
+2LB11,MMTA - Respiratory - Medium,Early - Institutional,0,1.2133,4
+2LB21,MMTA - Respiratory - Medium,Early - Institutional,1,1.27,4
+2LB31,MMTA - Respiratory - Medium,Early - Institutional,2,1.4123,4
+3LB11,MMTA - Respiratory - Medium,Late - Community,0,0.6766,2
+3LB21,MMTA - Respiratory - Medium,Late - Community,1,0.7333,2
+3LB31,MMTA - Respiratory - Medium,Late - Community,2,0.8755,2
+4LB11,MMTA - Respiratory - Medium,Late - Institutional,0,1.1448,3
+4LB21,MMTA - Respiratory - Medium,Late - Institutional,1,1.2016,3
+4LB31,MMTA - Respiratory - Medium,Late - Institutional,2,1.3438,3
+1GC11,MMTA - Surgical Aftercare - High,Early - Community,0,1.1481,3
+1GC21,MMTA - Surgical Aftercare - High,Early - Community,1,1.2049,3
+1GC31,MMTA - Surgical Aftercare - High,Early - Community,2,1.3471,2
+2GC11,MMTA - Surgical Aftercare - High,Early - Institutional,0,1.3524,4
+2GC21,MMTA - Surgical Aftercare - High,Early - Institutional,1,1.4091,4
+2GC31,MMTA - Surgical Aftercare - High,Early - Institutional,2,1.5513,4
+3GC11,MMTA - Surgical Aftercare - High,Late - Community,0,0.8156,2
+3GC21,MMTA - Surgical Aftercare - High,Late - Community,1,0.8724,2
+3GC31,MMTA - Surgical Aftercare - High,Late - Community,2,1.0146,2
+4GC11,MMTA - Surgical Aftercare - High,Late - Institutional,0,1.2839,3
+4GC21,MMTA - Surgical Aftercare - High,Late - Institutional,1,1.3406,3
+4GC31,MMTA - Surgical Aftercare - High,Late - Institutional,2,1.4828,4
+1GA11,MMTA - Surgical Aftercare - Low,Early - Community,0,0.9063,2
+1GA21,MMTA - Surgical Aftercare - Low,Early - Community,1,0.963,2
+1GA31,MMTA - Surgical Aftercare - Low,Early - Community,2,1.1052,2
+2GA11,MMTA - Surgical Aftercare - Low,Early - Institutional,0,1.1105,3
+2GA21,MMTA - Surgical Aftercare - Low,Early - Institutional,1,1.1673,3
+2GA31,MMTA - Surgical Aftercare - Low,Early - Institutional,2,1.3095,3
+3GA11,MMTA - Surgical Aftercare - Low,Late - Community,0,0.5738,2
+3GA21,MMTA - Surgical Aftercare - Low,Late - Community,1,0.6305,2
+3GA31,MMTA - Surgical Aftercare - Low,Late - Community,2,0.7728,2
+4GA11,MMTA - Surgical Aftercare - Low,Late - Institutional,0,1.042,3
+4GA21,MMTA - Surgical Aftercare - Low,Late - Institutional,1,1.0988,3
+4GA31,MMTA - Surgical Aftercare - Low,Late - Institutional,2,1.241,3
+1GB11,MMTA - Surgical Aftercare - Medium,Early - Community,0,1.0121,3
+1GB21,MMTA - Surgical Aftercare - Medium,Early - Community,1,1.0689,3
+1GB31,MMTA - Surgical Aftercare - Medium,Early - Community,2,1.2111,3
+2GB11,MMTA - Surgical Aftercare - Medium,Early - Institutional,0,1.2164,3
+2GB21,MMTA - Surgical Aftercare - Medium,Early - Institutional,1,1.2731,4
+2GB31,MMTA - Surgical Aftercare - Medium,Early - Institutional,2,1.4154,4
+3GB11,MMTA - Surgical Aftercare - Medium,Late - Community,0,0.6797,2
+3GB21,MMTA - Surgical Aftercare - Medium,Late - Community,1,0.7364,2
+3GB31,MMTA - Surgical Aftercare - Medium,Late - Community,2,0.8786,2
+4GB11,MMTA - Surgical Aftercare - Medium,Late - Institutional,0,1.1479,3
+4GB21,MMTA - Surgical Aftercare - Medium,Late - Institutional,1,1.2047,3
+4GB31,MMTA - Surgical Aftercare - Medium,Late - Institutional,2,1.3469,3
+1EC11,MS Rehab - High,Early - Community,0,1.16,5
+1EC21,MS Rehab - High,Early - Community,1,1.2167,4
+1EC31,MS Rehab - High,Early - Community,2,1.359,4
+2EC11,MS Rehab - High,Early - Institutional,0,1.3642,5
+2EC21,MS Rehab - High,Early - Institutional,1,1.421,5
+2EC31,MS Rehab - High,Early - Institutional,2,1.5632,5
+3EC11,MS Rehab - High,Late - Community,0,0.8275,2
+3EC21,MS Rehab - High,Late - Community,1,0.8843,2
+3EC31,MS Rehab - High,Late - Community,2,1.0265,3
+4EC11,MS Rehab - High,Late - Institutional,0,1.2958,4
+4EC21,MS Rehab - High,Late - Institutional,1,1.3525,4
+4EC31,MS Rehab - High,Late - Institutional,2,1.4947,4
+1EA11,MS Rehab - Low,Early - Community,0,0.9406,4
+1EA21,MS Rehab - Low,Early - Community,1,0.9973,4
+1EA31,MS Rehab - Low,Early - Community,2,1.1396,4
+2EA11,MS Rehab - Low,Early - Institutional,0,1.1448,4
+2EA21,MS Rehab - Low,Early - Institutional,1,1.2016,5
+2EA31,MS Rehab - Low,Early - Institutional,2,1.3438,5
+3EA11,MS Rehab - Low,Late - Community,0,0.6081,2
+3EA21,MS Rehab - Low,Late - Community,1,0.6649,2
+3EA31,MS Rehab - Low,Late - Community,2,0.8071,2
+4EA11,MS Rehab - Low,Late - Institutional,0,1.0764,4
+4EA21,MS Rehab - Low,Late - Institutional,1,1.1331,4
+4EA31,MS Rehab - Low,Late - Institutional,2,1.2753,4
+1EB11,MS Rehab - Medium,Early - Community,0,1.0265,5
+1EB21,MS Rehab - Medium,Early - Community,1,1.0833,4
+1EB31,MS Rehab - Medium,Early - Community,2,1.2255,4
+2EB11,MS Rehab - Medium,Early - Institutional,0,1.2308,5
+2EB21,MS Rehab - Medium,Early - Institutional,1,1.2875,5
+2EB31,MS Rehab - Medium,Early - Institutional,2,1.4297,5
+3EB11,MS Rehab - Medium,Late - Community,0,0.694,2
+3EB21,MS Rehab - Medium,Late - Community,1,0.7508,2
+3EB31,MS Rehab - Medium,Late - Community,2,0.893,2
+4EB11,MS Rehab - Medium,Late - Institutional,0,1.1623,4
+4EB21,MS Rehab - Medium,Late - Institutional,1,1.219,4
+4EB31,MS Rehab - Medium,Late - Institutional,2,1.3613,4
+1BC11,Neuro - High,Early - Community,0,1.2766,4
+1BC21,Neuro - High,Early - Community,1,1.3333,4
+1BC31,Neuro - High,Early - Community,2,1.4756,4
+2BC11,Neuro - High,Early - Institutional,0,1.4808,5
+2BC21,Neuro - High,Early - Institutional,1,1.5376,4
+2BC31,Neuro - High,Early - Institutional,2,1.6798,4
+3BC11,Neuro - High,Late - Community,0,0.9441,2
+3BC21,Neuro - High,Late - Community,1,1.0009,3
+3BC31,Neuro - High,Late - Community,2,1.1431,3
+4BC11,Neuro - High,Late - Institutional,0,1.4124,4
+4BC21,Neuro - High,Late - Institutional,1,1.4691,4
+4BC31,Neuro - High,Late - Institutional,2,1.6113,4
+1BA11,Neuro - Low,Early - Community,0,1.031,4
+1BA21,Neuro - Low,Early - Community,1,1.0878,4
+1BA31,Neuro - Low,Early - Community,2,1.23,4
+2BA11,Neuro - Low,Early - Institutional,0,1.2353,4
+2BA21,Neuro - Low,Early - Institutional,1,1.292,4
+2BA31,Neuro - Low,Early - Institutional,2,1.4343,4
+3BA11,Neuro - Low,Late - Community,0,0.6986,2
+3BA21,Neuro - Low,Late - Community,1,0.7553,2
+3BA31,Neuro - Low,Late - Community,2,0.8975,2
+4BA11,Neuro - Low,Late - Institutional,0,1.1668,4
+4BA21,Neuro - Low,Late - Institutional,1,1.2236,3
+4BA31,Neuro - Low,Late - Institutional,2,1.3658,4
+1BB11,Neuro - Medium,Early - Community,0,1.1318,4
+1BB21,Neuro - Medium,Early - Community,1,1.1886,4
+1BB31,Neuro - Medium,Early - Community,2,1.3308,4
+2BB11,Neuro - Medium,Early - Institutional,0,1.3361,4
+2BB21,Neuro - Medium,Early - Institutional,1,1.3928,4
+2BB31,Neuro - Medium,Early - Institutional,2,1.535,5
+3BB11,Neuro - Medium,Late - Community,0,0.7993,2
+3BB21,Neuro - Medium,Late - Community,1,0.8561,2
+3BB31,Neuro - Medium,Late - Community,2,0.9983,2
+4BB11,Neuro - Medium,Late - Institutional,0,1.2676,4
+4BB21,Neuro - Medium,Late - Institutional,1,1.3243,4
+4BB31,Neuro - Medium,Late - Institutional,2,1.4665,4
+1CC11,Wound - High,Early - Community,0,1.5526,4
+1CC21,Wound - High,Early - Community,1,1.6093,4
+1CC31,Wound - High,Early - Community,2,1.7516,4
+2CC11,Wound - High,Early - Institutional,0,1.7568,5
+2CC21,Wound - High,Early - Institutional,1,1.8136,4
+2CC31,Wound - High,Early - Institutional,2,1.9558,4
+3CC11,Wound - High,Late - Community,0,1.2201,3
+3CC21,Wound - High,Late - Community,1,1.2769,3
+3CC31,Wound - High,Late - Community,2,1.4191,3
+4CC11,Wound - High,Late - Institutional,0,1.6884,4
+4CC21,Wound - High,Late - Institutional,1,1.7451,4
+4CC31,Wound - High,Late - Institutional,2,1.8873,4
+1CA11,Wound - Low,Early - Community,0,1.3373,4
+1CA21,Wound - Low,Early - Community,1,1.3941,4
+1CA31,Wound - Low,Early - Community,2,1.5363,4
+2CA11,Wound - Low,Early - Institutional,0,1.5416,4
+2CA21,Wound - Low,Early - Institutional,1,1.5983,4
+2CA31,Wound - Low,Early - Institutional,2,1.7405,4
+3CA11,Wound - Low,Late - Community,0,1.0048,3
+3CA21,Wound - Low,Late - Community,1,1.0616,3
+3CA31,Wound - Low,Late - Community,2,1.2038,3
+4CA11,Wound - Low,Late - Institutional,0,1.4731,4
+4CA21,Wound - Low,Late - Institutional,1,1.5298,4
+4CA31,Wound - Low,Late - Institutional,2,1.6721,4
+1CB11,Wound - Medium,Early - Community,0,1.4173,4
+1CB21,Wound - Medium,Early - Community,1,1.4741,4
+1CB31,Wound - Medium,Early - Community,2,1.6163,4
+2CB11,Wound - Medium,Early - Institutional,0,1.6215,4
+2CB21,Wound - Medium,Early - Institutional,1,1.6783,4
+2CB31,Wound - Medium,Early - Institutional,2,1.8205,4
+3CB11,Wound - Medium,Late - Community,0,1.0848,3
+3CB21,Wound - Medium,Late - Community,1,1.1416,3
+3CB31,Wound - Medium,Late - Community,2,1.2838,3
+4CB11,Wound - Medium,Late - Institutional,0,1.5531,4
+4CB21,Wound - Medium,Late - Institutional,1,1.6098,4
+4CB31,Wound - Medium,Late - Institutional,2,1.752,4

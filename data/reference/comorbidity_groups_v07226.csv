@@ -1,0 +1,120 @@
+NAME,DESCRIPTION,LOW_COMORBIDITY
+Behavioral_1,Schizophrenia and Schizoaffective Disorders,0
+Behavioral_10,"Major Depression, single episode",0
+Behavioral_2,"Mood Disorders, includes Depression and Bipolar Disorder",0
+Behavioral_3,Delusional and Non-mood Disorders,0
+Behavioral_4,"Psychotic, major depressive, and dissociative disorders, includes unspecified dementia, eating disorder and intellectual disabilities",0
+Behavioral_5,"Phobias, Other Anxiety and Obsessive compulsive disorders",0
+Behavioral_6,"Schizotypal, Persistent Mood, and Adult Personality Disorders",0
+Behavioral_7,Mental and Behavioral Disorders Due to Psychoactive Substance Abuse,0
+Behavioral_8,Eating Disorders,0
+Behavioral_9,Personality and Behavioral Disorders due to known Physiological Condition,0
+Cerebral_1,Occlusion/Stenosis of Pre-cerebral/Cerebral Arteries w/o Cerebral Infarction,0
+Cerebral_2,Transient Ischemic Attacks and Vascular Syndromes in Cerebrovascular Diseases,0
+Cerebral_3,Other Cerebrovascular Diseases,0
+Cerebral_4,"Sequelae of Cerebrovascular Diseases, Includes Cerebral Atherosclerosis and Stroke Sequelae",1
+Circulatory_1,"Nutritional, Enzymatic, and Other Heredity Anemias",0
+Circulatory_10,Varicose Veins and Lymphedema,1
+Circulatory_11,Lymphedema,0
+Circulatory_12,Hypotension,0
+Circulatory_2,"Hemolytic, Aplastic, and Other Anemias",1
+Circulatory_3,Coagulation Defects and Cytokine Release Syndromes,0
+Circulatory_4,Hypertensive Chronic Kidney Disease,0
+Circulatory_5,Hypertensive Heart and Chronic Kidney Disease w/o Heart Failure,0
+Circulatory_6,Pulmonary Embolism,0
+Circulatory_7,"Atherosclerosis, includes Peripheral Vascular Disease, Aortic Aneurysms and Hypotension",0
+Circulatory_8,Aneurysms and Peripheral Vascular Disease,0
+Circulatory_9,Other Venous Embolism and Thrombosis,1
+Endocrine_1,Hypothyroidism,0
+Endocrine_2,Diabetes due to a Known Underlying Condition and Diabetes effect on the Eye,0
+Endocrine_3,"Type 1, Type 2, and Other Specified Diabetes",0
+Endocrine_4,"Other Combined Immunodeficiencies and Malnutrition, includes graft-versus-host-disease",1
+Endocrine_5,"Obesity, and Disorders of Metabolism and Fluid Balance",0
+Endocrine_6,Graft vs. Host Disease,0
+Gastrointestinal_1,"Crohnâs, Ulcerative Colitis, and other Functional Intestinal Disorders",0
+Gastrointestinal_2,Intestinal Obstruction and Ileus,1
+Gastrointestinal_3,Constipation,0
+Gastrointestinal_4,"Alcoholic Liver Disease, Chronic Hepatitis, Fibrosis and Cirrhosis of the Liver",0
+Gastrointestinal_5,Hepatic Failure and Other Inflammatory Liver Disorders,0
+Gastrointestinal_6,Other Disorders of the Liver,0
+Gastrointestinal_7,Cholelithiasis and Cholecystitis,0
+Gastrointestinal_8,"Pancreatitis, Cholelithiasis and Cholecystitis",0
+Gastrointestinal_9,Celiac Disease,0
+Heart_1,Hypertensive Heart Disease with Heart Failure,0
+Heart_10,"Dysrhythmias, includes Atrial fibrillation and Atrial flutter",1
+Heart_11,Heart Failure,1
+Heart_12,Other Heart Diseases,0
+Heart_2,None (these are now part of Circulatory 5),0
+Heart_3,Aneurysm of Heart/Coronary Artery,0
+Heart_4,Angina Pectoris,0
+Heart_5,Atherosclerotic Heart Disease with Angina,1
+Heart_6,Aneurysm of Heart/Coronary Artery,0
+Heart_7,Chronic Ischemic Heart Disease,0
+Heart_8,Other Pulmonary Heart Diseases,0
+Heart_9,Valve Disorders,0
+Infectious_1,"C-diff, MRSA, E-coli, Sepsis",0
+Infectious_2,HIV,0
+Infectious_3,Herpes Zoster,0
+Infectious_4,Viral Hepatitis,0
+Musculoskeletal_1,Lupus,1
+Musculoskeletal_2,Rheumatoid Arthritis,0
+Musculoskeletal_3,Joint Pain,0
+Musculoskeletal_4,Lumbar Spinal Stenosis,0
+Musculoskeletal_5,Osteoporosis,0
+Neoplasm_1,"Malignant neoplasm of Lip, Oral cavity and Pharynx, includes Head and Neck Cancers",0
+Neoplasm_10,Kaposiâs Sarcoma,0
+Neoplasm_11,Malignant Neoplasm of Female Genital Organs and Prostate,0
+Neoplasm_12,Malignant Neoplasm of Urinary Tract,0
+Neoplasm_13,Malignant Neoplasm of Brain,0
+Neoplasm_14,"Malignant Neoplasm of Spinal Cord, Cranial Nerves and Other Parts of Central Nervous system",0
+Neoplasm_15,"Malignant Neoplasm of Adrenal Gland, Endocrine Glands and Related Structures",0
+Neoplasm_16,Secondary Neoplasm of Lymph Nodes,0
+Neoplasm_17,Secondary Neoplasm of Respiratory and GI Systems,1
+Neoplasm_18,"Secondary neoplasm of urinary and reproductive systems, skin, brain, and bone",1
+Neoplasm_19,Secondary neoplasm of other specified sites,0
+Neoplasm_2,"Malignant neoplasm of Digestive Organs, includes Gastrointestinal Cancers",1
+Neoplasm_20,Non-Hodgkinâs Lymphoma,0
+Neoplasm_21,Hodgkinâs Lymphoma,0
+Neoplasm_22,"Follicular and Other Non-Hodgkinâs Lymphoma, and Leukemia",0
+Neoplasm_23,Merkel Cell and Neuroendocrine Carcinoma,0
+Neoplasm_24,Secondary Carcinoid and Neuroendocrine Carcinoma,0
+Neoplasm_3,Malignant Neoplasm of Liver and Intrahepatic Bile Ducts,0
+Neoplasm_4,"Malignant Neoplasm of Pancreas, Peritoneum and Retroperitoneum",0
+Neoplasm_5,Malignant neoplasm of peritoneum and retroperitoneum,0
+Neoplasm_6,"Malignant Neoplasm of Trachea, Bronchus, Lung, and Mediastinum",1
+Neoplasm_7,Malignant Neoplasm of Bone and Articular Cartilage,0
+Neoplasm_8,"Malignant Neoplasm of Peripheral Nerves, Autonomic Nervous System, and other connective tissue",0
+Neoplasm_9,Malignant Neoplasm of Breast,0
+Neurological_1,Vascular Dementia and Delirium due to known physiological conditions,0
+Neurological_10,Diabetes with neuropathy,1
+Neurological_11,Disease of the Macula and Blindness/Low Vision,0
+Neurological_12,Nondiabetic neuropathy,0
+Neurological_2,Delirium due to known physiological conditions,0
+Neurological_3,Neurological conditions,0
+Neurological_4,Alzheimerâs disease and related dementias,0
+Neurological_5,"Spinal Muscular Atrophy, Systemic atrophy and Motor Neuron Disease",1
+Neurological_6,Demyelinating Diseases of the Central Nervous System,0
+Neurological_7,"Paraplegia, Hemiplegia and Quadriplegia",1
+Neurological_8,Epilepsy,0
+Neurological_9,Encephalopathy,0
+No_group,No group assigned,0
+Renal_1,Chronic Kidney Disease and End Stage Renal Disease,0
+Renal_2,Unspecified renal failure,0
+Renal_3,"Other disorders of the kidney and ureter, excluding chronic kidney disease and ESRD",0
+Renal_4,Pyelonephritus and other disorders of the kidney and ureter,0
+Renal_5,"Neuromuscular dysfunction of bladder, urinary tract infection, and benign prostatic hyperplasia",0
+Respiratory_1,Obstructive sleep apnea,0
+Respiratory_10,2019 Novel Coronavirus,0
+Respiratory_2,Whooping Cough and Pneumonia,0
+Respiratory_3,Influenza,0
+Respiratory_4,"Bronchitis, Emphysema, and Interstitial Lung Disease",0
+Respiratory_5,"Chronic Obstructive Pulmonary Disease, Asthma, and Bronchiectasis",0
+Respiratory_6,Bronchiectasis,0
+Respiratory_7,Pneumonitis and chronic pulmonary edema,0
+Respiratory_8,Pulmonary fibrosis,0
+Respiratory_9,Respiratory Failure and Atelectasis,0
+Skin_1,"Cutaneous Abscess, Cellulitis, and Lymphangitis",1
+Skin_2,Stage One and unspecified stage pressure ulcers by site,0
+Skin_3,"Diseases of arteries, arterioles, and capillaries with ulceration and non-pressure, chronic ulcers",1
+Skin_4,Stages Two through Four and Unstageable pressure ulcers by site,1
+Skin_5,Non-Pressure Chronic Ulcers,0

@@ -1,0 +1,286 @@
+ID,DX_FROM,DX_TO,DESCRIPTION
+1,A00,A09,Intestinal infectious diseases
+2,A15,A19,Tuberculosis
+3,A20,A28,Certain zoonotic bacterial diseases
+4,A30,A49,Other bacterial diseases
+5,A50,A64,Infections with a predominantly sexual mode of transmission
+6,A65,A69,Other spirochetal diseases
+7,A70,A74,Other diseases caused by chlamydiae
+8,A75,A79,Rickettsioses
+9,A80,A89,Viral and prion infections of the central nervous system
+10,A90,A99,Arthropod-borne viral fevers and viral hemorrhagic fevers
+11,B00,B09,Viral infections characterized by skin and mucous membrane lesions
+12,B10,B10,Other human herpesviruses
+13,B15,B19,Viral hepatitis
+14,B20,B20,Human immunodeficiency virus [HIV] disease
+15,B25,B34,Other viral diseases
+16,B35,B49,Mycoses
+17,B50,B64,Protozoal diseases
+18,B65,B83,Helminthiases
+19,B85,B89,"Pediculosis, acariasis and other infestations"
+20,B90,B94,Sequelae of infectious and parasitic diseases
+21,B95,B97,Bacterial and viral infectious agents
+22,B99,B99,Other infectious diseases
+23,C00,C14,Malignant neoplasms
+24,C15,C26,Malignant neoplasms of digestive organs
+25,C30,C39,Malignant neoplasms of respiratory and intrathoracic organs
+26,C40,C41,Malignant neoplasms of bone and articular cartilage
+27,C43,C44,Melanoma and other malignant neoplasms of skin
+28,C45,C49,Malignant neoplasms of mesothelial and soft tissue
+29,C50,C50,Malignant neoplasms of breast
+30,C51,C58,Malignant neoplasms of female genital organs
+31,C60,C63,Malignant neoplasms of male genital organs
+32,C64,C68,Malignant neoplasms of urinary tract
+33,C69,C72,"Malignant neoplasms of eye, brain and other parts of central nervous system"
+34,C73,C75,Malignant neoplasms of thyroid and other endocrine glands
+35,C76,C80,"Malignant neoplasms of ill-defined, other secondary and unspecified sites"
+36,C7A,C7A,Malignant neuroendocrine tumors
+37,C7B,C7B,Secondary neuroendocrine tumors
+38,C81,C96,"Malignant neoplasms of lymphoid, hematopoietic and related tissue"
+39,D00,D09,In situ neoplasms
+40,D10,D36,"Benign neoplasms, except benign neuroendocrine tumors"
+41,D37,D48,"Neoplasms of uncertain behavior, polycythemia vera and myelodysplastic syndromes"
+42,D3A,D3A,Benign neuroendocrine tumors
+43,D49,D49,Neoplasms of unspecified behavior
+44,D50,D53,Nutritional anemias
+45,D55,D59,Hemolytic anemias
+46,D60,D64,Aplastic and other anemias and other bone marrow failure syndromes
+47,D65,D69,"Coagulation defects, purpura and other hemorrhagic conditions"
+48,D70,D77,Other disorders of blood and blood-forming organs
+49,D78,D78,Intraoperative and postprocedural complications of the spleen
+50,D80,D89,Certain disorders involving the immune mechanism
+51,E00,E07,Disorders of thyroid gland
+52,E08,E13,Diabetes mellitus
+53,E15,E16,Other disorders of glucose regulation and pancreatic internal secretion
+54,E20,E35,Disorders of other endocrine glands
+55,E36,E36,Intraoperative complications of endocrine system
+56,E40,E46,Malnutrition
+57,E50,E64,Other nutritional deficiencies
+58,E65,E68,"Overweight, obesity and other hyperalimentation"
+59,E70,E88,Metabolic disorders
+60,E89,E89,"Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified"
+61,F01,F09,Mental disorders due to known physiological conditions
+62,F10,F19,Mental and behavioral disorders due to psychoactive substance use
+63,F20,F29,"Schizophrenia, schizotypal, delusional, and other non-mood psychotic disorders"
+64,F30,F39,Mood [affective] disorders
+65,F40,F48,"Anxiety, dissociative, stress-related, somatoform and other nonpsychotic mental disorders"
+66,F50,F59,Behavioral syndromes associated with physiological disturbances and physical factors
+67,F60,F69,Disorders of adult personality and behavior
+68,F70,F79,Intellectual Disabilities
+69,F80,F89,Pervasive and specific developmental disorders
+70,F90,F98,Behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+71,F99,F99,Unspecified mental disorder
+72,G00,G09,Inflammatory diseases of the central nervous system
+73,G10,G14,Systemic atrophies primarily affecting the central nervous system
+74,G20,G26,Extrapyramidal and movement disorders
+75,G30,G32,Other degenerative diseases of the nervous system
+76,G35,G37,Demyelinating diseases of the central nervous system
+77,G40,G47,Episodic and paroxysmal disorders
+78,G50,G59,"Nerve, nerve root and plexus disorders"
+79,G60,G65,Polyneuropathies and other disorders of the peripheral nervous system
+80,G70,G73,Diseases of myoneural junction and muscle
+81,G80,G83,Cerebral palsy and other paralytic syndromes
+82,G89,G99,Other disorders of the nervous system
+83,H00,H05,"Disorders of eyelid, lacrimal system and orbit"
+84,H10,H11,Disorders of conjunctiva
+85,H15,H22,"Disorders of sclera, cornea, iris and ciliary body"
+86,H25,H28,Disorders of lens
+87,H30,H36,Disorders of choroid and retina
+88,H40,H42,Glaucoma
+89,H43,H44,Disorders of vitreous body and globe
+90,H46,H47,Disorders of optic nerve and visual pathways
+91,H49,H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+92,H53,H54,Visual disturbances and blindness
+93,H55,H57,Other disorders of eye and adnexa
+94,H59,H59,"Intraoperative and postprocedural complications and disorders of eye and adnexa, not elsewhere classified"
+95,H60,H62,Diseases of external ear
+96,H65,H75,Diseases of middle ear and mastoid
+97,H80,H83,Diseases of inner ear
+98,H90,H94,Other disorders of ear
+99,H95,H95,"Intraoperative and postprocedural complications and disorders of ear and mastoid process, not elsewhere classified"
+100,I00,I02,Acute rheumatic fever
+101,I05,I09,Chronic rheumatic heart diseases
+102,I10,I1A,Hypertensive diseases
+103,I20,I25,Ischemic heart diseases
+104,I26,I28,Pulmonary heart disease and diseases of pulmonary circulation
+105,I30,I5A,Other forms of heart disease
+106,I60,I69,Cerebrovascular diseases
+107,I70,I79,"Diseases of arteries, arterioles and capillaries"
+108,I80,I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+109,I95,I99,Other and unspecified disorders of the circulatory system
+110,J00,J06,Acute upper respiratory infections
+111,J09,J18,Influenza and pneumonia
+112,J20,J22,Other acute lower respiratory infections
+113,J30,J39,Other diseases of upper respiratory tract
+114,J40,J4B,Chronic lower respiratory diseases
+115,J60,J70,Lung diseases due to external agents
+116,J80,J84,Other respiratory diseases principally affecting the interstitium
+117,J85,J86,Suppurative and necrotic conditions of the lower respiratory tract
+118,J90,J94,Other diseases of the pleura
+119,J95,J95,"Intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified"
+120,J96,J99,Other diseases of the respiratory system
+121,K00,K14,Diseases of oral cavity and salivary glands
+122,K20,K31,"Diseases of esophagus, stomach and duodenum"
+123,K35,K38,Diseases of appendix
+124,K40,K46,Hernia
+125,K50,K52,Noninfective enteritis and colitis
+126,K55,K64,Other diseases of intestines
+127,K65,K6A,Diseases of peritoneum and retroperitoneum
+128,K70,K77,Diseases of liver
+129,K80,K87,"Disorders of gallbladder, biliary tract and pancreas"
+130,K90,K95,Other diseases of the digestive system
+131,L00,L08,Infections of the skin and subcutaneous tissue
+132,L10,L14,Bullous disorders
+133,L20,L30,Dermatitis and eczema
+134,L40,L45,Papulosquamous disorders
+135,L49,L54,Urticaria and erythema
+136,L55,L59,Radiation-related disorders of the skin and subcutaneous tissue
+137,L60,L75,Disorders of skin appendages
+138,L76,L76,Intraoperative and postprocedural complications of skin and subcutaneous tissue
+139,L80,L99,Other disorders of the skin and subcutaneous tissue
+140,M00,M02,Arthropathies
+141,M04,M04,Autoinflammatory syndromes
+142,M05,M14,Inflammatory polyarthropathies
+143,M15,M19,Osteoarthritis
+144,M20,M25,Other joint disorders
+145,M26,M27,Dentofacial anomalies [including malocclusion] and other disorders of jaw
+146,M30,M36,Systemic connective tissue disorders
+147,M40,M43,Dorsopathies
+148,M45,M49,Spondylopathies
+149,M50,M54,Other dorsopathies
+150,M60,M63,Soft tissue disorders
+151,M65,M67,Disorders of synovium and tendon
+152,M70,M79,Other soft tissue disorders
+153,M80,M85,Osteopathies and chondropathies
+154,M86,M90,Other osteopathies
+155,M91,M94,Chondropathies
+156,M95,M95,Other disorders of the musculoskeletal system and connective tissue
+157,M96,M96,"Intraoperative and postprocedural complications and disorders of musculoskeletal system, not elsewhere classified"
+158,M97,M97,Periprosthetic fracture around internal prosthetic joint
+159,M99,M99,"Biomechanical lesions, not elsewhere classified"
+160,N00,N08,Glomerular diseases
+161,N10,N16,Renal tubulo-interstitial diseases
+162,N17,N19,Acute kidney failure and chronic kidney disease
+163,N20,N23,Urolithiasis
+164,N25,N29,Other disorders of kidney and ureter
+165,N30,N39,Other diseases of the urinary system
+166,N40,N53,Diseases of male genital organs
+167,N60,N65,Disorders of breast
+168,N70,N77,Inflammatory diseases of female pelvic organs
+169,N80,N98,Noninflammatory disorders of female genital tract
+170,N99,N99,"Intraoperative and postprocedural complications and disorders of genitourinary system, not elsewhere classified"
+171,O00,O08,Pregnancy with abortive outcome
+172,O09,O09,Supervision of high risk pregnancy
+173,O10,O16,"Edema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+174,O20,O29,Other maternal disorders predominantly related to pregnancy
+175,O30,O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems
+176,O60,O77,Complications of labor and delivery
+177,O80,O82,Encounter for delivery
+178,O85,O92,Complications predominantly related to the puerperium
+179,O94,O9A,"Other obstetric conditions, not elsewhere classified"
+180,P00,P04,"Newborn affected by maternal factors and by complications of pregnancy, labor, and delivery"
+181,P05,P08,Disorders of newborn related to length of gestation and fetal growth
+182,P09,P09,Abnormal findings on neonatal screening
+183,P10,P15,Birth trauma
+184,P19,P29,Respiratory and cardiovascular disorders specific to the perinatal period
+185,P35,P39,Infections specific to the perinatal period
+186,P50,P61,Hemorrhagic and hematological disorders of newborn
+187,P70,P74,Transitory endocrine and metabolic disorders specific to newborn
+188,P76,P78,Digestive system disorders of newborn
+189,P80,P83,Conditions involving the integument and temperature regulation of newborn
+190,P84,P84,Other problems with newborn
+191,P90,P96,Other disorders originating in the perinatal period
+192,Q00,Q07,Congenital malformations of the nervous system
+193,Q10,Q18,"Congenital malformations of eye, ear, face and neck"
+194,Q20,Q28,Congenital malformations of the circulatory system
+195,Q30,Q34,Congenital malformations of the respiratory system
+196,Q35,Q37,Cleft lip and cleft palate
+197,Q38,Q45,Other congenital malformations of the digestive system
+198,Q50,Q56,Congenital malformations of genital organs
+199,Q60,Q64,Congenital malformations of the urinary system
+200,Q65,Q79,Congenital malformations and deformations of the musculoskeletal system
+201,Q80,Q89,Other congenital malformations
+202,Q90,Q99,"Chromosomal abnormalities, not elsewhere classified"
+203,QA0,QA1,"Genetic disorders, not elsewhere classified"
+204,R00,R09,Symptoms and signs involving the circulatory and respiratory systems
+205,R10,R19,Symptoms and signs involving the digestive system and abdomen
+206,R20,R23,Symptoms and signs involving the skin and subcutaneous tissue
+207,R25,R29,Symptoms and signs involving the nervous and musculoskeletal systems
+208,R30,R39,Symptoms and signs involving the genitourinary system
+209,R40,R46,"Symptoms and signs involving cognition, perception, emotional state and behavior"
+210,R47,R49,Symptoms and signs involving speech and voice
+211,R50,R69,General symptoms and signs
+212,R70,R79,"Abnormal findings on examination of blood, without diagnosis"
+213,R80,R82,"Abnormal findings on examination of urine, without diagnosis"
+214,R83,R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+215,R90,R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+216,R97,R97,Abnormal tumor markers
+217,R99,R99,Ill-defined and unknown cause of mortality
+218,S00,S09,Injuries to the head
+219,S10,S19,Injuries to the neck
+220,S20,S29,Injuries to the thorax
+221,S30,S39,"Injuries to the abdomen, lower back, lumbar spine, pelvis and external genitals"
+222,S40,S49,Injuries to the shoulder and upper arm
+223,S50,S59,Injuries to the elbow and forearm
+224,S60,S69,"Injuries to the wrist, hand and fingers"
+225,S70,S79,Injuries to the hip and thigh
+226,S80,S89,Injuries to the knee and lower leg
+227,S90,S99,Injuries to the ankle and foot
+228,T07,T07,"Injury, poisoning and certain other consequences of external causes"
+229,T14,T14,Injury of unspecified body region
+230,T15,T19,Effects of foreign body entering through natural orifice
+231,T20,T25,Burns and corrosions
+232,T26,T28,Burns and corrosions confined to eye and internal organs
+233,T30,T32,Burns and corrosions of multiple and unspecified body regions
+234,T33,T34,Frostbite
+235,T36,T50,"Poisoning by, adverse effects of and underdosing of drugs, medicaments and biological substances"
+236,T51,T65,Toxic effects of substances chiefly nonmedicinal as to source
+237,T66,T78,Other and unspecified effects of external causes
+238,T79,T79,Certain early complications of trauma
+239,T80,T88,"Complications of surgical and medical care, not elsewhere classified"
+240,V00,V09,Accidents
+241,V10,V19,Pedal cycle rider injured in transport accident
+242,V20,V29,Motorcycle rider injured in transport accident
+243,V30,V39,Occupant of three-wheeled motor vehicle injured in transport accident
+244,V40,V49,Car occupant injured in transport accident
+245,V50,V59,Occupant of pick-up truck or van injured in transport accident
+246,V60,V69,Occupant of heavy transport vehicle injured in transport accident
+247,V70,V79,Bus occupant injured in transport accident
+248,V80,V89,Other land transport accidents
+249,V90,V94,Water transport accidents
+250,V95,V97,Air and space transport accidents
+251,V98,V99,Other and unspecified transport accidents
+252,W00,W19,Other external causes of accidental injury
+253,W20,W49,Exposure to inanimate mechanical forces
+254,W50,W64,Exposure to animate mechanical forces
+255,W65,W74,Accidental non-transport drowning and submersion
+256,W85,W99,"Exposure to electric current, radiation and extreme ambient air temperature and pressure"
+257,X00,X08,"Exposure to smoke, fire and flames"
+258,X10,X19,Contact with heat and hot substances
+259,X30,X39,Exposure to forces of nature
+260,X50,X50,Overexertion and strenuous or repetitive movements
+261,X52,X58,Accidental exposure to other specified factors
+262,X71,X83,Intentional self-harm
+263,X92,Y09,Assault
+264,Y21,Y33,Event of undetermined intent
+265,Y35,Y38,"Legal intervention, operations of war, military operations, and terrorism"
+266,Y62,Y69,Complications of medical and surgical care
+267,Y70,Y82,Medical devices associated with adverse incidents in diagnostic and therapeutic use
+268,Y83,Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+269,Y90,Y99,Supplementary factors related to causes of morbidity classified elsewhere
+270,Z00,Z13,Persons encountering health services for examinations
+271,Z14,Z15,Genetic carrier and genetic susceptibility to disease
+272,Z16,Z16,Resistance to antimicrobial drugs
+273,Z17,Z17,"Estrogen, and other hormones and factors receptor status"
+274,Z18,Z18,Retained foreign body fragments
+275,Z19,Z19,Hormone sensitivity malignancy status
+276,Z20,Z29,Persons with potential health hazards related to communicable diseases
+277,Z30,Z39,Persons encountering health services in circumstances related to reproduction
+278,Z40,Z53,Encounters for other specific health care
+279,Z55,Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+280,Z66,Z66,Do not resuscitate status
+281,Z67,Z67,Blood type
+282,Z68,Z68,Body mass index [BMI]
+283,Z69,Z76,Persons encountering health services in other circumstances
+284,Z77,Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+285,U00,U49,Provisional assignment of new diseases of uncertain etiology or emergency use
