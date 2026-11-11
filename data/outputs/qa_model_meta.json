@@ -1,0 +1,1 @@
+{"kind": "dollar_regressor", "features": ["points", "dist_to_level_boundary", "level", "comorbidity", "n_secondary", "visits", "visits_over_lupa", "early", "institutional", "ai_drafted", "clinical_group", "M1800", "M1810", "M1820", "M1830", "M1840", "M1850", "M1860", "flag_bedfast_mismatch", "flag_chairfast_tub", "flag_bedfast_toilet"]}

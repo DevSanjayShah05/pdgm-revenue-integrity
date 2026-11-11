@@ -1,0 +1,7 @@
+error_type,rate,periods,share_periods_payment_changed,net_dollars_per_period,under_dollars_per_period,over_dollars_per_period,rtp_rate
+ai_draft_unreviewed,0.4,20000,0.0637,-2.8783440000000002,-8.571107000000001,5.692763,0.0
+missed_comorbidity,0.15,20000,0.06585,-10.927114,-11.518834000000002,0.59172,0.0
+rtp_principal,0.03,20000,0.0,0.0,0.0,0.0,0.02975
+sequencing_error,0.04,20000,0.03495,-0.453999,-5.146564,4.692565,0.0
+unsupported_comorbidity,0.02,20000,0.011,1.8529845,0.0,1.8529845,0.0
+missed_visit_note,0.05,20000,0.0064,-8.2195225,-8.2195225,0.0,0.0

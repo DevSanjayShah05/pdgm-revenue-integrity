@@ -1,0 +1,348 @@
+{
+  "summary": {
+    "periods": 20000.0,
+    "revenue_supported": 37351732.550000474,
+    "revenue_billed_paid": 35764644.10000055,
+    "under_coded_dollars": -626735.8000000049,
+    "over_coded_dollars": 212766.6699999999,
+    "net_dollars": -413969.1300000029,
+    "share_periods_with_revenue_error": 0.15985,
+    "rtp_rate": 0.0316,
+    "dollars_delayed_by_rtp": 1173119.3199999996,
+    "functional_level_mismatch_rate": 0.06887649731515902,
+    "comorbidity_mismatch_rate": 0.08999380421313506,
+    "lupa_flip_rate": 0.00660883932259397
+  },
+  "by_clinical_group": [
+    {
+      "clinical_group": "H",
+      "periods": 4076,
+      "avg_supported_payment": 1721.7046295387902,
+      "under_coded_dollars": -108180.94000000008,
+      "over_coded_dollars": 54419.65999999995,
+      "share_with_error": 0.15529931305201178
+    },
+    {
+      "clinical_group": "E",
+      "periods": 3957,
+      "avg_supported_payment": 1903.157859489493,
+      "under_coded_dollars": -107191.42000000016,
+      "over_coded_dollars": 34122.54000000002,
+      "share_with_error": 0.17134192570128887
+    },
+    {
+      "clinical_group": "C",
+      "periods": 1995,
+      "avg_supported_payment": 2213.1470726817197,
+      "under_coded_dollars": -106939.26000000013,
+      "over_coded_dollars": 22088.87000000001,
+      "share_with_error": 0.1443609022556391
+    },
+    {
+      "clinical_group": "I",
+      "periods": 1397,
+      "avg_supported_payment": 2060.9570221904,
+      "under_coded_dollars": -67699.77999999996,
+      "over_coded_dollars": 13025.600000000002,
+      "share_with_error": 0.1624910522548318
+    },
+    {
+      "clinical_group": "B",
+      "periods": 2005,
+      "avg_supported_payment": 2058.8711022443713,
+      "under_coded_dollars": -59231.349999999875,
+      "over_coded_dollars": 20551.340000000007,
+      "share_with_error": 0.16259351620947632
+    },
+    {
+      "clinical_group": "L",
+      "periods": 1612,
+      "avg_supported_payment": 1718.7805024813933,
+      "under_coded_dollars": -45852.36999999997,
+      "over_coded_dollars": 16908.440000000006,
+      "share_with_error": 0.15694789081885857
+    },
+    {
+      "clinical_group": "A",
+      "periods": 1355,
+      "avg_supported_payment": 1750.3523542435476,
+      "under_coded_dollars": -33204.659999999996,
+      "over_coded_dollars": 12637.750000000005,
+      "share_with_error": 0.16162361623616237
+    },
+    {
+      "clinical_group": "K",
+      "periods": 1018,
+      "avg_supported_payment": 1775.1062671905722,
+      "under_coded_dollars": -29006.000000000004,
+      "over_coded_dollars": 9250.31,
+      "share_with_error": 0.15717092337917485
+    },
+    {
+      "clinical_group": "F",
+      "periods": 595,
+      "avg_supported_payment": 1601.5645042016797,
+      "under_coded_dollars": -25824.41,
+      "over_coded_dollars": 10051.330000000004,
+      "share_with_error": 0.19327731092436976
+    },
+    {
+      "clinical_group": "J",
+      "periods": 976,
+      "avg_supported_payment": 1722.0890881147577,
+      "under_coded_dollars": -23551.700000000008,
+      "over_coded_dollars": 10715.750000000002,
+      "share_with_error": 0.14549180327868852
+    },
+    {
+      "clinical_group": "G",
+      "periods": 611,
+      "avg_supported_payment": 1849.09908346972,
+      "under_coded_dollars": -13491.600000000004,
+      "over_coded_dollars": 4010.62,
+      "share_with_error": 0.15384615384615385
+    },
+    {
+      "clinical_group": "D",
+      "periods": 403,
+      "avg_supported_payment": 1657.3144913151364,
+      "under_coded_dollars": -6562.3099999999995,
+      "over_coded_dollars": 4984.46,
+      "share_with_error": 0.15384615384615385
+    }
+  ],
+  "by_component": [
+    {
+      "component_changed": "comorbidity adjustment",
+      "periods": 1279,
+      "net_dollars": -162928.33000000005,
+      "avg_abs_dollars": 178.32283815480787
+    },
+    {
+      "component_changed": "functional level",
+      "periods": 1152,
+      "net_dollars": -64607.70999999997,
+      "avg_abs_dollars": 236.95903645833272
+    },
+    {
+      "component_changed": "clinical group",
+      "periods": 655,
+      "net_dollars": -50176.60000000001,
+      "avg_abs_dollars": 308.6935267175573
+    },
+    {
+      "component_changed": "LUPA status",
+      "periods": 74,
+      "net_dollars": -129706.18999999999,
+      "avg_abs_dollars": 1752.7863513513512
+    },
+    {
+      "component_changed": "other",
+      "periods": 37,
+      "net_dollars": -6550.300000000001,
+      "avg_abs_dollars": 177.03513513513516
+    }
+  ],
+  "by_error_tag": [
+    {
+      "tag": "oasis_ai_draft",
+      "periods_tagged": 7018,
+      "share_moving_payment": 0.2609005414648048,
+      "avg_delta_when_tagged": -21.917530635508705
+    },
+    {
+      "tag": "missed_comorbidity",
+      "periods_tagged": 4770,
+      "share_moving_payment": 0.3312368972746331,
+      "avg_delta_when_tagged": -52.023364779873994
+    },
+    {
+      "tag": "missed_visit_note",
+      "periods_tagged": 920,
+      "share_moving_payment": 0.2793478260869565,
+      "avg_delta_when_tagged": -190.40576086956523
+    },
+    {
+      "tag": "sequencing_error",
+      "periods_tagged": 697,
+      "share_moving_payment": 0.93974175035868,
+      "avg_delta_when_tagged": -71.98938307030132
+    },
+    {
+      "tag": "unsupported_comorbidity",
+      "periods_tagged": 357,
+      "share_moving_payment": 0.6330532212885154,
+      "avg_delta_when_tagged": 75.78565826330534
+    }
+  ],
+  "isolated_errors": [
+    {
+      "error_type": "ai_draft_unreviewed",
+      "rate": 0.4,
+      "periods": 20000,
+      "share_periods_payment_changed": 0.0637,
+      "net_dollars_per_period": -2.8783440000000002,
+      "under_dollars_per_period": -8.571107000000001,
+      "over_dollars_per_period": 5.692763,
+      "rtp_rate": 0.0
+    },
+    {
+      "error_type": "missed_comorbidity",
+      "rate": 0.15,
+      "periods": 20000,
+      "share_periods_payment_changed": 0.06585,
+      "net_dollars_per_period": -10.927114,
+      "under_dollars_per_period": -11.518834000000002,
+      "over_dollars_per_period": 0.59172,
+      "rtp_rate": 0.0
+    },
+    {
+      "error_type": "rtp_principal",
+      "rate": 0.03,
+      "periods": 20000,
+      "share_periods_payment_changed": 0.0,
+      "net_dollars_per_period": 0.0,
+      "under_dollars_per_period": 0.0,
+      "over_dollars_per_period": 0.0,
+      "rtp_rate": 0.02975
+    },
+    {
+      "error_type": "sequencing_error",
+      "rate": 0.04,
+      "periods": 20000,
+      "share_periods_payment_changed": 0.03495,
+      "net_dollars_per_period": -0.453999,
+      "under_dollars_per_period": -5.146564,
+      "over_dollars_per_period": 4.692565,
+      "rtp_rate": 0.0
+    },
+    {
+      "error_type": "unsupported_comorbidity",
+      "rate": 0.02,
+      "periods": 20000,
+      "share_periods_payment_changed": 0.011,
+      "net_dollars_per_period": 1.8529845,
+      "under_dollars_per_period": 0.0,
+      "over_dollars_per_period": 1.8529845,
+      "rtp_rate": 0.0
+    },
+    {
+      "error_type": "missed_visit_note",
+      "rate": 0.05,
+      "periods": 20000,
+      "share_periods_payment_changed": 0.0064,
+      "net_dollars_per_period": -8.2195225,
+      "under_dollars_per_period": -8.2195225,
+      "over_dollars_per_period": 0.0,
+      "rtp_rate": 0.0
+    }
+  ],
+  "qa_model": {
+    "train_periods": 13557,
+    "test_periods": 5811,
+    "test_error_rate": 0.16503183617277578,
+    "model_selected_by_cv": "dollar_regressor",
+    "cv_capture_at_20pct": {
+      "classifier": 0.37579303229918276,
+      "dollar_regressor": 0.4500297485057014
+    },
+    "roc_auc": 0.6716641579276297,
+    "pr_auc": 0.2902497123824126,
+    "classifier_roc_auc": 0.6993508369101848,
+    "rule_roc_auc": 0.6622235050078786,
+    "capture_at_20pct": {
+      "model": 0.4895698313438531,
+      "classifier": 0.3582672426237716,
+      "rule": 0.3888937268653514,
+      "random": 0.21045577168154062
+    },
+    "capture_at_20pct_ci95": {
+      "model": [
+        0.4445962916835498,
+        0.5455951710626742
+      ],
+      "rule": [
+        0.34765233244655797,
+        0.4352572529428133
+      ],
+      "model_minus_rule": [
+        0.03787336973347499,
+        0.15534526247670674
+      ]
+    },
+    "capture_at_30pct": {
+      "model": 0.6014923900605783,
+      "classifier": 0.4601813562763886,
+      "rule": 0.48413543031997447,
+      "random": 0.3447547617541644
+    },
+    "top_features_gain": {
+      "ai_drafted": 1981.09,
+      "visits_over_lupa": 977.36,
+      "flag_bedfast_toilet": 960.45,
+      "dist_to_level_boundary": 609.32,
+      "flag_bedfast_mismatch": 602.22,
+      "clinical_group": 585.79,
+      "institutional": 549.82,
+      "visits": 518.37,
+      "M1800": 470.89,
+      "early": 456.02
+    }
+  },
+  "ai_review_sweep": [
+    {
+      "ai_draft_unreviewed": 0.0,
+      "net_dollars_per_period": -17.696416,
+      "abs_dollars_per_period": 28.079515999999998,
+      "over_dollars_per_period": 5.19155,
+      "functional_level_mismatch": 0.005888429752066116
+    },
+    {
+      "ai_draft_unreviewed": 0.2,
+      "net_dollars_per_period": -23.20138,
+      "abs_dollars_per_period": 37.126834,
+      "over_dollars_per_period": 6.962726999999999,
+      "functional_level_mismatch": 0.03597642923601778
+    },
+    {
+      "ai_draft_unreviewed": 0.4,
+      "net_dollars_per_period": -19.900931999999997,
+      "abs_dollars_per_period": 42.407798,
+      "over_dollars_per_period": 11.253433,
+      "functional_level_mismatch": 0.07041817243159525
+    },
+    {
+      "ai_draft_unreviewed": 0.6,
+      "net_dollars_per_period": -21.310809999999996,
+      "abs_dollars_per_period": 46.37258,
+      "over_dollars_per_period": 12.530885,
+      "functional_level_mismatch": 0.10413000724562675
+    },
+    {
+      "ai_draft_unreviewed": 0.8,
+      "net_dollars_per_period": -25.014072,
+      "abs_dollars_per_period": 55.719747999999996,
+      "over_dollars_per_period": 15.352838,
+      "functional_level_mismatch": 0.13492309280478992
+    },
+    {
+      "ai_draft_unreviewed": 1.0,
+      "net_dollars_per_period": -26.950910999999998,
+      "abs_dollars_per_period": 61.641939,
+      "over_dollars_per_period": 17.345514,
+      "functional_level_mismatch": 0.1671644865588629
+    }
+  ],
+  "scenario": {
+    "n_periods": 20000,
+    "seed": 2026,
+    "ai_draft_unreviewed": 0.4,
+    "missed_comorbidity": 0.15,
+    "rtp_principal": 0.03,
+    "sequencing_error": 0.04,
+    "unsupported_comorbidity": 0.02,
+    "missed_visit_note": 0.05,
+    "confusion_smoothing": 2.0
+  },
+  "synthetic": true
+}
