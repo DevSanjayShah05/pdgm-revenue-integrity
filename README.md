@@ -2,6 +2,8 @@
 
 **Where home health revenue leaks between the visit and the claim, and which charts QA should read first.**
 
+**Live dashboard:** [period-audit.streamlit.app](https://period-audit.streamlit.app/)
+
 > Under Medicare's PDGM, a 30-day home health payment is set by five things: the principal diagnosis (clinical group),
 > secondary diagnoses (comorbidity adjustment), OASIS functional answers (impairment level), admission source and timing,
 > and the visit count (LUPA). A coding or documentation slip in any of them changes the check, and AI scribes now write a
